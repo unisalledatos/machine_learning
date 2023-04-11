@@ -1,0 +1,3 @@
+https://www.kaggle.com/competitions/wage-prediction-uni-boosting/
+
+https://www.kaggle.com/competitions/classification-problem-boosting/
