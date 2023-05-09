@@ -2,7 +2,7 @@
 
 ## Importación, carga y exploración inicial
 
-- Descargue los siguientes datos y léalos en Google Colab.
+- Descargue los siguientes [datos](https://raw.githubusercontent.com/unisalledatos/machine_learning/main/marketing_campaign.csv) y léalos en Google Colab.
 - Cargue las librerías necesarias para el ejercicio: `sklearn`, `pandas`, `numpy`, `matplotlib` y `seaborn` pueden ser un buen inicio.
 - Realice una exploración inicial de los datos:
   - `head`
