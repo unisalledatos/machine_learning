@@ -1,6 +1,6 @@
 # Ejercicio final
 
-El siguiente [dataset]() contiene información del consumo de un plan de telefonía móvil de 3214 usuarios en un mes determinado. 
+El siguiente [dataset](https://raw.githubusercontent.com/unisalledatos/machine_learning/main/comp_final.csv) contiene información del consumo de un plan de telefonía móvil de 3214 usuarios en un mes determinado. 
 
 - `llamadas`: número de llamadas realizadas
 - `minutos`: número de minutos consumidos
