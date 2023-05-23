@@ -1,7 +1,7 @@
 # Ejercicio final
 
 El siguiente [dataset](https://raw.githubusercontent.com/unisalledatos/machine_learning/main/comp_final.csv) contiene información del consumo de un plan de telefonía móvil de 3214 usuarios en un mes determinado. 
-
+Cancel changes
 - `llamadas`: número de llamadas realizadas
 - `minutos`: número de minutos consumidos
 - `mensajes`: número de mensajes enviados
@@ -23,12 +23,12 @@ El proyecto será evaluado única y exclusivamente a partir de la métrica `f1_s
 
 |f1 score | Nota|
 |---|---|
-|<0.6|2.5|
-|<0.7|3|
-|<0.75|3.5|
-|<0.8|4.0|
-|<0.85|4.5|
-|>=0.85|5|
+|<0.5|2.5|
+|<0.55|3|
+|<0.6|3.5|
+|<0.62|4.0|
+|<0.64|4.5|
+|>=0.64|5|
 
 Evite el plagio. Puede utilizar CUALQUIER herramienta existente para alcanzar el objetivo. El desarrollo del ejercicio es INDIVIDUAL.
 
