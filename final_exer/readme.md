@@ -25,10 +25,10 @@ El proyecto será evaluado única y exclusivamente a partir de la métrica `f1_s
 |---|---|
 |<0.5|2.5|
 |<0.55|3|
-|<0.6|3.5|
-|<0.62|4.0|
-|<0.64|4.5|
-|>=0.64|5|
+|<0.58|3.5|
+|<0.6|4.0|
+|<0.63|4.5|
+|>=0.63|5|
 
 Evite el plagio. Puede utilizar CUALQUIER herramienta existente para alcanzar el objetivo. El desarrollo del ejercicio es INDIVIDUAL.
 
