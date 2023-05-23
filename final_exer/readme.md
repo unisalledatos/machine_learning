@@ -8,7 +8,7 @@ El siguiente [dataset](https://raw.githubusercontent.com/unisalledatos/machine_l
 - `datos_usados`: volumen datos utilizados en megabytes
 - `plan`: nombre del plan al que pertenece cada usuario
 
-El objetivo del proyecto es crear un modelo que, a partir de las características observadas, permita realizar una recomendación del plan más adecuado. Para ello, se sugiere llevar a cabo los siguientes pasos después de importar tanto las librerías como el dataset:
+El objetivo de este ejercicio es crear un modelo que, a partir de las características observadas, permita realizar una recomendación del plan más adecuado. Para ello, se sugiere llevar a cabo los siguientes pasos después de importar tanto las librerías como el dataset:
 
 1. Análisis exploratorio de datos.
 2. Preprocesamiento.
@@ -18,7 +18,6 @@ El objetivo del proyecto es crear un modelo que, a partir de las característica
 6. Modelamiento y optimización de hiperparámetros (puede probar tantos como considere necesarios)
 7. Prueba del modelo. Tome el mejor modelo y realice una predicción sobre el conjunto de testeo. Calcule el `f1_score`.
 8. Selección del modelo.
-9. Conclusiones.
 
 El proyecto será evaluado única y exclusivamente a partir de la métrica `f1_score` siguiendo se muestra en la siguiente tabla (lo primero que se cumpla):
 
@@ -31,4 +30,6 @@ El proyecto será evaluado única y exclusivamente a partir de la métrica `f1_s
 |<0.85|4.5|
 |>=0.85|5|
 
-Evite el plagio. Puede utilizar CUALQUIER herramienta existente para alcanzar el objetivo.
+Evite el plagio. Puede utilizar CUALQUIER herramienta existente para alcanzar el objetivo. El desarrollo del ejercicio es INDIVIDUAL.
+
+Para entregar lo realizado y que sea calificable, cree un nuevo repositorio llamado `EJERCICIO_FINAL` y cargue allí el notebook utilizado para desarrollarlo. Asegúrese de que no tiene ningún error de ejecución y que lo realizado pueda ser replicable al descargar el notebook (siembre semillas donde lo considere necesario).
