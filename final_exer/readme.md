@@ -32,4 +32,6 @@ El proyecto será evaluado única y exclusivamente a partir de la métrica `f1_s
 
 Evite el plagio. Puede utilizar CUALQUIER herramienta existente para alcanzar el objetivo. El desarrollo del ejercicio es INDIVIDUAL.
 
-Para entregar lo realizado y que sea calificable, cree un nuevo repositorio llamado `EJERCICIO_FINAL` y cargue allí el notebook utilizado para desarrollarlo. Asegúrese de que no tiene ningún error de ejecución y que lo realizado pueda ser replicable al descargar el notebook (siembre semillas donde lo considere necesario).
+Para entregar lo realizado y que sea calificable, cree un nuevo repositorio llamado `EJERCICIO_FINAL` y cargue allí el notebook utilizado para desarrollarlo. Asegúrese de que no tiene ningún error de ejecución y que lo realizado pueda ser replicable al descargar el notebook (siembre semillas donde lo considere necesario). El notebook debe contener cada uno de los pasos seguidos para llegar al modelamiento y la evaluación final del modelo donde conste la métrica en testeo alcanzada.
+
+Envíe el repositorio a través de Teams.
