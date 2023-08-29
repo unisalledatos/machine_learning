@@ -1,2 +1,3 @@
 https://www.kaggle.com/competitions/wage-predict-uni
 https://www.kaggle.com/competitions/wage-prediction-2
+https://www.kaggle.com/competitions/classificacion-comp-ls/
