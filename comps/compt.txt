@@ -8,3 +8,8 @@ https://www.kaggle.com/t/1e0c24eda78541e28f878f14bc50b961
 
 ///// Comp 3 /////
 https://www.kaggle.com/t/8a600ed674324fc68c4c9d53d0f3ba3e
+
+
+Linear regression only
+
+https://www.kaggle.com/t/5910a6926c9246ffba0fc55f68c39bc5
