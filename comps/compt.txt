@@ -1,15 +1,2 @@
-https://www.kaggle.com/competitions/wage-predict-uni
-https://www.kaggle.com/competitions/wage-prediction-2
-https://www.kaggle.com/competitions/classificacion-comp-ls/
-https://www.kaggle.com/t/f8f58efef1c24a76ba7c5a60ab569840
-
-///// Comp 2 /////
-https://www.kaggle.com/t/1e0c24eda78541e28f878f14bc50b961
-
-///// Comp 3 /////
-https://www.kaggle.com/t/8a600ed674324fc68c4c9d53d0f3ba3e
-
-
-Linear regression only
-
-https://www.kaggle.com/t/5910a6926c9246ffba0fc55f68c39bc5
+comp1: https://www.kaggle.com/t/f04b54454b5e4cf7bc38b2cfbb357717
+comp2: https://www.kaggle.com/t/16182014fba64a3b91d25a9b2fd567e7
