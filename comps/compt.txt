@@ -1,3 +1,4 @@
 comp1: https://www.kaggle.com/t/f04b54454b5e4cf7bc38b2cfbb357717
 comp2: https://www.kaggle.com/t/16182014fba64a3b91d25a9b2fd567e7
 comp3: https://www.kaggle.com/t/09b163683ae4486f8920db07e26db3dc
+comp4: https://www.kaggle.com/t/afa158f0d3ac4003a351d5d812a8dd10
