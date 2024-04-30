@@ -22,7 +22,7 @@ Antes de empezar, asegúrese de que VSCode, git y python estén instalados en el
 
 Habrá culminado bien esta parte si puede ver los documentos de local en GitHub. De lo contrario, revise si siguió los pasos perfectamente.
 
-## Entrenando el modelo (1.4)
+## Entrenando el modelo (1.4)
 
 1. En el archivo `model.py` cargue las librerías necesarias para entrenar modelos sobre los datos. Tenga presente que hemos visto bastantes y en este punto usted ya puede decidir cuáles probar y cómo elegir:
   - RandomForest
@@ -65,7 +65,7 @@ vars = np.array([[var1, var2, var3]])
 ```
 6. Realice la predicción e imprímala.
 
-## Deployment (1.0)
+## Deployment (1.0)
 
 Asegúrese de que todos los paquetes o librerías empleadas en el proyecto se encuentren en el archivo `requirements.txt`.
 
