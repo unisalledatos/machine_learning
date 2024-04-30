@@ -1,4 +1,4 @@
-# Proyecto final - 2do corte: creando una aplicación para predecir los precios de los inmuebles
+# Proyecto final - 2do corte: creando una aplicación para predecir los precios de los inmuebles
 
 Antes de empezar, asegúrese de que VSCode, git y python estén instalados en el computador.
 
